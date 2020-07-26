@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joep Kockelkorn</h1>
 <h3 align="center">A passionate frontend developer from Sittard, the Netherlands </h3>
-<div align="center" style="margin-bottom: 20px;">💬 Ask me about Angular, schematics, RxJS, NgRx</div>
+<div align="center">💬 Ask me about Angular, schematics, RxJS, NgRx</div>
 
-<p align="center">
+<p style="margin-top: 20px;" align="center">
 <img height="48" width="48" src="./angular.svg">&nbsp;<img height="48" width="48" src="javascript.svg">&nbsp;<img height="48" width="48" src="typescript.svg">&nbsp;<img height="48" width="48" src="html.svg">&nbsp;<img height="48" width="48" src="css.svg">&nbsp;<img height="48" width="48" src="sass.svg">&nbsp;<img height="48" width="48" src="bootstrap.svg"></p>
 <p align="center"><img height="48" width="48" src="csharp.svg">&nbsp;<img height="48" width="48" src="dotnet.svg">&nbsp;<img height="48" width="48" src="nodejs.svg">&nbsp;</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joepkockelkorn&show_icons=true" alt="joepkockelkorn" /> </p>
