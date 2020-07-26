@@ -3,7 +3,7 @@
 <div align="center">💬 Ask me about Angular, schematics, RxJS, NgRx</div>
 <br>
 <p align="center">
-<img height="48" width="48" src="./angular.svg">&nbsp;<img height="48" width="48" src="javascript.svg">&nbsp;<img height="48" width="48" src="typescript.svg">&nbsp;<img height="48" width="48" src="html.svg">&nbsp;<img height="48" width="48" src="css.svg">&nbsp;<img height="48" width="48" src="sass.svg">&nbsp;<img height="48" width="48" src="bootstrap.svg"></p>
+<img height="48" width="48" src="angular.svg">&nbsp;<img height="48" width="48" src="javascript.svg">&nbsp;<img height="48" width="48" src="typescript.svg">&nbsp;<img height="48" width="48" src="html.svg">&nbsp;<img height="48" width="48" src="css.svg">&nbsp;<img height="48" width="48" src="sass.svg">&nbsp;<img height="48" width="48" src="bootstrap.svg"></p>
 <p align="center"><img height="48" width="48" src="csharp.svg">&nbsp;<img height="48" width="48" src="dotnet.svg">&nbsp;<img height="48" width="48" src="nodejs.svg">&nbsp;</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joepkockelkorn&show_icons=true" alt="joepkockelkorn" /> </p>
 
