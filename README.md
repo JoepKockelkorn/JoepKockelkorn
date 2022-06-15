@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joep Kockelkorn</h1>
 <h3 align="center">A passionate frontend developer from Sittard, the Netherlands </h3>
-<div align="center">💬 Ask me about Angular, schematics, RxJS, NgRx</div>
+<div align="center">💬 Ask me about Angular, Nx, RxJS, NgRx</div>
 <br>
 <p align="center">
 <img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/angular.svg">&nbsp;<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/ionic.svg">&nbsp;<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/javascript.svg">&nbsp;<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/typescript.svg">&nbsp;<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/html5.svg">&nbsp;<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/css3.svg">&nbsp;<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/sass.svg">&nbsp;<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/bootstrap.svg">&nbsp;<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/storybook.svg">&nbsp;<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/cypress.svg">&nbsp;<img height="48" width="48" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/jest.svg"></p>
