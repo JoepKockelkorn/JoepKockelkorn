@@ -1,7 +1,7 @@
 Hi 👋, I'm Joep Kockelkorn
 =======================================================================================================================================
 
-I'm a hard-working, well organised, goal-driven full-stack developer with a focus on frontend and a knack for UX. I'm experienced with Typescript, Angular, Remix (React), CSS, Nx Devtools and whatnot. I love to try new things, as there is always room for improvement.
+I'm a hard-working, well organised, goal-driven full-stack developer with a focus on frontend and a knack for UX. I'm experienced with Typescript, Angular, React, CSS, Nx Devtools and whatnot. I love to try new things, as there is always room for improvement.
 
 * 🌍  I'm based in Sittard, the Netherlands
 * 🖥️  See my minimal website at [joepkockelkorn.com](https://joepkockelkorn.com)
